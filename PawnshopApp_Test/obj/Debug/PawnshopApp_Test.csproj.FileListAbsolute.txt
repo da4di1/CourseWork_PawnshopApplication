@@ -1,0 +1,10 @@
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\bin\Debug\PawnshopApp_Test.exe.config
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\bin\Debug\PawnshopApp_Test.exe
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\bin\Debug\PawnshopApp_Test.pdb
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\bin\Debug\PawnshopLibrary.dll
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\bin\Debug\PawnshopLibrary.pdb
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\obj\Debug\PawnshopApp_Test.csprojAssemblyReference.cache
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\obj\Debug\PawnshopApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\obj\Debug\PawnshopApp_Test.csproj.CopyComplete
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\obj\Debug\PawnshopApp_Test.exe
+C:\Users\Antocomp\source\repos\PawnshopApp_Test\PawnshopApp_Test\obj\Debug\PawnshopApp_Test.pdb
